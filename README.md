@@ -1,8 +1,5 @@
 # Max-of-Sort-of-Sorted-Arrays
 
-Max of Sort of Sorted Arrays
-All submitted work must be done individually without consulting someone else's solutions in accordance with the University's Academic Dishonesty and Plagiarism policies.
-
 
 Your genius friend discovered an amazingly fast sorting algorithm using deep quantum neural networks. Unfortunately, due to complicated quantum physics beyond the scope of this unit, the algorithm's output is only sort of sorted. An array S of n integers is sort of sorted if for some  x ,   S[i] is the (x + i mod n)-th smallest number.
 
